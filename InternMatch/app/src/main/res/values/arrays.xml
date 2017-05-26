@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="info_headings">
+        <item>Application</item>
+        <item>Author</item>
+        <item>Date</item>
+        <item>Details</item>
+    </string-array>
+
+    <string-array name="info_details">
+        <item>InternMatch (c)</item>
+        <item>Zale N. Young - Freelance Engineer</item>
+        <item>April 6, 2017</item>
+        <item>
+            InternMatch (c) is a platform that connects students
+            to companies. It makes both recruiting, and finding internships
+            much easier! Just tell us about yourself, and tell us your
+            preferences, and we\'ll match you up with students or companies
+            meant just for you!
+        </item>
+    </string-array>
+</resources>

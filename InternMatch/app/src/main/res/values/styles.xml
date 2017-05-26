@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:buttonStyle">@style/appButton</item>
+        <item name="buttonStyle">@style/appButton</item>
+        <item name="android:imageButtonStyle">@style/appImageButton</item>
+        <item name="imageButtonStyle">@style/appImageButton</item>
+        <item name="android:buttonStyleToggle">@style/appButtonToggle</item>
+    </style>
+
+    <style name="appImageButton">
+        <item name="android:background">@drawable/button</item>
+
+    </style>
+    <style name="appButton" parent="android:style/Widget.Holo.Light.Button">
+        <item name="android:background">@drawable/button</item>
+    </style>
+
+    <style name="appButtonToggle" parent="android:style/Widget.Holo.Light.Button.Toggle">
+        <item name="android:background">@color/darkTeal</item>
+    </style>
+</resources>

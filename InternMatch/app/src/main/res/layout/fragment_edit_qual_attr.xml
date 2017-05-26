@@ -1,0 +1,29 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_edit_qualattrs_title"
+        android:textSize="24sp"
+        android:gravity="center"
+        style="?android:listSeparatorTextViewStyle"
+        />
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.zalehacks.apps.internmatch.EditQualAttrFragment"
+        android:id="@+id/recycler_view_edit_qualattr"
+        android:layout_margin="24sp"
+        android:gravity="center"
+        />
+
+</LinearLayout>
+
+

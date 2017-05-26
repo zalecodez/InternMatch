@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">InternMatch</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="matches">Matches</string>
+    <string name="requests">Requests</string>
+    <string name="about_app">About</string>
+    <string name="set_cookie">Settings</string>
+    <string name="cookie_key">cookie</string>
+    <string name="cookie_title">Cookie</string>
+    <string name="cookie_default">__test=cook</string>
+    <string name="save_qualattr">Save Changes</string>
+
+    <string name="text_student">Student</string>
+    <string name="text_company">Company</string>
+    <string name="radio_type">I am a: </string>
+    <string name="hint_enter_fname">First Name</string>
+    <string name="hint_enter_lname">Last Name</string>
+    <string name="radio_gender">Gender: </string>
+    <string name="text_male">Male</string>
+    <string name="text_female">Female</string>
+    <string name="text_other">Other</string>
+
+    <string name="hint_enter_gpa">Enter GPA</string>
+
+    <string name="radio_level">College Level: </string>
+    <string name="text_freshman">Freshman</string>
+    <string name="text_sophomore">Sophomore</string>
+    <string name="text_junior">Junior</string>
+    <string name="text_senior">Senior</string>
+
+    <string name="hint_enter_name">Company Name</string>
+    <string name="hint_enter_email">Email Address</string>
+    <string name="hint_enter_password">Password</string>
+
+    <string name="button_login_here">Already Registered? Log In Here.</string>
+    <string name="button_register">Register</string>
+
+    <string name="button_register_here">Don\'t have an account? Register Here.</string>
+    <string name="button_login">Log In</string>
+
+    <string name="toast_login_fail">Incorrect Email or Password</string>
+    <string name="registration_error">Registration Error. Please Try Again</string>
+    <string name="registration_success">Success! You may Login now</string>
+    <string name="toast_enter_name">Please enter a valid name</string>
+    <string name="toast_enter_fname">Please enter a valid first name</string>
+    <string name="toast_enter_lname">Please enter a valid last name</string>
+    <string name="toast_enter_email">Please enter a valid email</string>
+    <string name="toast_enter_password">Please enter a valid password</string>
+
+    <string name="possessed_heading">You</string>
+    <string name="desired_heading">What you\'re looking for</string>
+
+    <string name="edit_possessed_student">Describe Yourself</string>
+    <string name="edit_possessed_company">Describe Your Company</string>
+    <string name="edit_desired_student">Describe what you\'re looking for</string>
+    <string name="edit_desired_company">Describe who you\'re looking for</string>
+
+    <string name="no_possessed_student">Tell Us About Yourself</string>
+    <string name="no_desired_student">Tell Us What Your\'re Looking For</string>
+    <string name="no_possessed_company">Tell Us About Your Company</string>
+    <string name="no_desired_company">Tell Us Who You\'re Looking For</string>
+
+    <string name="no_matches">You Have No Matches Yet</string>
+
+    <string name="button_request">Connect!</string>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

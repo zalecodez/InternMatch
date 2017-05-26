@@ -1,0 +1,16 @@
+Users(uid, email, password, fname, lname, gender, level, gpa)
+UserQuals(qualid, qualname)
+PossessedQuals(qualid, uid)
+DesiredAttrs(attrid, uid)
+UserInterests(uid, cid)
+
+Companies(cid, email, password, name)
+CompAttrs(attrid, attrname)
+PossessedAttrs(attrid, cid)
+DesiredQuals(qualid, cid)
+CompInterests(cid, uid)
+
+PotentialMatches(cid, uid, percent)
+ActualMatches(cid, uid, percent)
+
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <EditTextPreference
+        android:key="@string/cookie_key"
+        android:title="@string/cookie_title"
+        android:defaultValue="@string/cookie_default"
+        android:inputType="text"
+        android:singleLine="true"
+        />
+</PreferenceScreen>
